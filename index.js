@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>My Markdown Notes</title>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      loadSidebar: true,
+      name: ''
+    }
+  </script>
+</body>
+</html>
